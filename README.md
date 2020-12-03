@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-The YouTube tutorial was really easy to follow along so it wasn't very difficult to debug the errors I encountered with my code. The only real trouble I had was importing my project into GitHub itself, as I kept getting the error that my initial push had failed. I tried a lot of things with Git BASH and command prompt but managed to successfully import only after soeme help from StackOverflow and a friend. 
+The YouTube tutorial was really easy to follow along so it wasn't very difficult to debug the errors I encountered with my code. The only real trouble I had was importing my project into GitHub itself, as I kept getting the error that my initial push had failed. I tried a lot of things with Git BASH and command prompt but managed to successfully import only after some help from StackOverflow and a friend. 
 
 ## License
 
